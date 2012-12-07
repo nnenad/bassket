@@ -1,4 +1,4 @@
-<?php // Example 21-9: members.php
+ <?php // Example 21-9: members.php
 include_once 'header.php';
 
 if (!$loggedin) die();
