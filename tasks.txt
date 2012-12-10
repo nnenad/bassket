@@ -1,1 +1,2 @@
 Do design
+-add checkIn aplication
