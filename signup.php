@@ -1,4 +1,4 @@
-<?php // Example 21-5: signup.php
+ <?php // Example 21-5: signup.php
 include_once 'header.php';
 
 echo <<<_END
